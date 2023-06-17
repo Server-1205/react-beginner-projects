@@ -1,5 +1,5 @@
 import './index.scss';
-
+import React from 'react';
 const questions = [
   {
     title: 'React - это ... ?',
